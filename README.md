@@ -36,3 +36,48 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Licensing
 
 [Terms and Conditions](https://github.com/andromedaprotocol/andromeda-core/blob/development/LICENSE/LICENSE.md)
+
+
+
+First Crowdfund
+
+Project Description
+
+First Crowdfund is a decentralized application that allows users to create and sell NFTs on the Coreum Testnet marketplace. Leveraging cw71 Andromeda tokens, this project enables users to launch crowdfunding campaigns by creating unique digital assets, which they can promote and trade on the Andromeda Protocol marketplace. This dApp aims to simplify the NFT creation process and expand access to the Coreum Testnet for a broader user base.
+
+Key Features
+
+NFT Creation: Easily create NFTs using cw71 Andromeda tokens.
+
+Marketplace Integration: List and sell NFTs directly on the Coreum Testnet marketplace.
+Crowdfunding Support: Allow users to launch campaigns by tokenizing assets.
+
+Additional Features
+
+Future feature allowing users to create custom tokens or NFTs and sell them in the marketplace.
+
+Embeddable Links
+
+Andromeda Embeddable Link
+
+Future Scope
+
+This project aims to evolve into a fully-fledged marketplace where users can create custom tokens or NFTs, expanding the platform’s utility and accessibility.
+
+Vision
+
+The vision for First Crowdfund is to democratize access to NFT creation and sales on the Coreum Testnet. By providing a streamlined, user-friendly experience for crowdfunding and token creation, this project seeks to empower creators and innovators to harness blockchain technology for broader engagement. This project will potentially unlock new opportunities for users to participate in the NFT economy without extensive technical knowledge.
+
+Development Plan
+
+Setup Core Modules: Configure cw71 Andromeda tokens and ensure compatibility with Coreum Testnet.
+
+Smart Contract Development: Develop ADO (Andromeda Decentralized Object) functions to handle NFT creation, token allocation, and ownership tracking.
+Token Management: Define variables and mechanisms for minting, transferring, and burning tokens.
+Frontend Development: Build a simple interface for creating NFTs, launching crowdfunding campaigns, and listing items on the marketplace.
+Testing and Optimization: Conduct unit tests to verify contract functions, including minting, transferring, and marketplace listing.
+Deployment: Deploy the finalized smart contract on Coreum Testnet and integrate with the Andromeda Protocol marketplace.
+
+About the Creator
+Name: Yangpun Achok Lepcha
+email: yangpunblaze@gmail.com
