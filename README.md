@@ -57,8 +57,7 @@ Additional Features
 Future feature allowing users to create custom tokens or NFTs and sell them in the marketplace.
 
 Embeddable Links
-
-Andromeda Embeddable Link
+https://embeddables.testnet.andromedaprotocol.io/coreum-testnet-1/crowd21
 
 Future Scope
 
